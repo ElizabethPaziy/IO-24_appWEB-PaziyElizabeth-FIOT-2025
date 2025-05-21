@@ -1,0 +1,22 @@
+.shopcategory-pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.shopcategory-pagination button {
+    padding: 0.5rem 1rem;
+    background: linear-gradient(90deg, #F0768B, #FFB6C1);
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-radius: 5px;
+}
+
+.shopcategory-pagination button:disabled {
+    background: grey;
+    cursor: not-allowed;
+}

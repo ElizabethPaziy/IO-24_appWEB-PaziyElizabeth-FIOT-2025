@@ -52,6 +52,8 @@
     background: linear-gradient(90deg, #F0768B, #FFB6C1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     text-decoration: none;
+    border: none;
+    outline: none;
 }
 
 .nav-login-button:hover {

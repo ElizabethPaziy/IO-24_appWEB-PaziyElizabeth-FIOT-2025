@@ -54,7 +54,7 @@
 
 .login-signup-fields input {
     height: 55px;
-    width: 95%;
+    /*width: 95%;*/
     padding-left: 20px;
     border: 1px solid #e0e0e0;
     outline: none;
